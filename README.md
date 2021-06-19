@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jitenderkumar21
 - 👀 I’m interested in Software Dev
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!-- - 🌱 I’m currently learning ... -->
+<!-- - 💞️ I’m looking to collaborate on ... -->
+<!-- - 📫  -->
 
 <!---
 jitenderkumar21/jitenderkumar21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
