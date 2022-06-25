@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @jitenderkumar21
-- 👀 I’m interested in Software Dev
+- 👀 I’m Software Engineer.
+- Tech Stack: Java, Springboot, Mysql
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫  -->
